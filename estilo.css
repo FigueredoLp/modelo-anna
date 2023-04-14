@@ -1,0 +1,59 @@
+body {
+	background: #d2d2c1 url('imagens/fundo.png');
+	background-attachment: fixed;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+	border: 0px solid red;
+	width: 920px;
+}
+
+#menu {
+	font-family: impact, charcoal, sans-serif;
+	background: #c5c5b2;
+	padding: 15px;
+}
+
+#conteudo {
+	border: 0px solid red;
+	width: 920px;
+	background: #D8D9D9;
+}
+
+#rodape {
+	padding: 25px;
+	text-align: center;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.fotosCam {
+	border: 10px outset #F3F5A8;
+	width: 600px;
+}
+
+#contato {
+	width: 500px;
+	padding: 10px;
+}
+
+a {
+	color: #0B2F3A;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+
+h1 {
+	color: #0B2F3A;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: Apple Chancery, cursive;
+	font-size: 1em;
+}
